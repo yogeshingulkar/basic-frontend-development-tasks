@@ -1,0 +1,113 @@
+#container {
+    height: 800px;
+    width: 100%;
+
+    border: 2px solid red;
+}
+
+img {
+    height: 300px;
+    width: 200px;
+
+}
+
+#A {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 500px;
+
+
+}
+
+#A:hover {
+    height: 500px;
+    width: 300px;
+    z-index: 1;
+}
+
+#A2 {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 360px;
+    top: 100px;
+
+}
+
+#A2:hover {
+    height: 500px;
+    width: 300px;
+    z-index: 1;
+}
+
+#A3 {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 280px;
+    top: 200px;
+}
+
+#A3:hover {
+    height: 500px;
+    width: 300px;
+    z-index: 1;
+}
+
+#A4 {
+
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+
+#A4:hover {
+    height: 500px;
+    width: 300px;
+    z-index: 1;
+}
+
+#K {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    right: 500px;
+    top: 100px;
+}
+
+#K:hover {
+    height: 500px;
+    width: 300px;
+    z-index: 1;
+}
+
+#Q {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    right: 400px;
+    top: 250px;
+}
+
+#Q:hover {
+    height: 500px;
+    width: 300px;
+    z-index: 1;
+}
+
+#J {
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    right: 300px;
+    top: 360px;
+}
+
+#J:hover {
+    height: 500px;
+    width: 300px;
+    z-index: 1;
+}

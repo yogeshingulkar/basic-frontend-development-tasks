@@ -1,0 +1,31 @@
+*{
+    background-color: aqua;
+}
+#box1{
+    background-color: red;
+}
+#box2{
+    background-color: black;
+}
+#box3{
+    background-color: blue;
+}
+#box4
+{
+    background-color: blueviolet;
+}
+
+#box1,#box2,#box3,#box4{
+    height: 300px;
+    width: 300px;
+}
+.maroonbox{
+    background-color: maroon;
+}
+.redbox{
+    background-color: red;
+}
+.maroonbox,.redbox{
+    height: 300px;
+    width: 300px;
+}

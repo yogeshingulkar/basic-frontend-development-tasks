@@ -1,0 +1,46 @@
+#maincontainer {
+    height: 800px;
+    width: 100%;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.product1, .product2, .product3 {
+    height: 400px;
+    width: 400px;
+    /* border: 2px solid red; */
+    background-color:wheat;
+    box-shadow: 5px 5px 5px 5px rgb(115, 108, 108);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    padding-bottom: 40px;
+}
+
+#maincontainer > div > img {
+    height: 150px;
+    width: 150px;
+}
+
+
+#maincontainer > div > p {
+    font-size: 14px;
+    font-weight: 600;
+    width: 150px;
+    margin: 0;
+}
+.see-all-link{
+     position: absolute;
+     bottom: 10px;
+    text-decoration: none;
+    /* text-align: center; */
+}
+.see-all-link:hover{
+color: #c7511f;
+text-decoration: none;
+}

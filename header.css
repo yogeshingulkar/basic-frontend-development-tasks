@@ -1,0 +1,104 @@
+#myntra-header
+{
+    height: 80px;
+    width: 100%;
+    /* border: 2px solid black; */
+    box-shadow: 10px 10px 10px rgb(202, 199, 199);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#logolink{
+    height: 70px;
+    width: 50%;
+    /* border: 2px solid blue; */
+    display: flex;
+}
+#logo{
+    height: inherit;
+    width: 70px;
+    /* border: 2px solid red; */
+    display: flex;
+}
+#links{
+    height: inherit;
+    width: 90%;
+    /* border: 2px solid green; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+#links>a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+}
+#searchbar{
+    height: 70px;
+    width: 20%;
+    /* border: 2px solid green; */
+    display: flex;
+    
+    align-items: center;
+}
+#searchicon{
+    height: 38px;
+    width: 40px;
+    border : 1px solid black;
+    border-right: none;
+    display: flex;
+    align-items: center;
+    border-radius: 5px 0px 0px 5px;
+
+}
+#searchicon>i{
+    font-size: 15px;
+}
+#searchbar>input{
+    height: 40px;
+    outline: none;
+    border: 1px solid black;
+    border-left: none;
+    border-radius: 0px 5px 5px 0px;
+}
+#icons{
+    height: 70px;
+    width: 20%;
+
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+#profile>i{
+    font-size: 15px;
+}
+#wishlist{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+}
+#wishlist>i{
+    font-size: 15px;
+}
+#bag{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
+#bag>i{
+    font-size: 15px;
+}

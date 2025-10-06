@@ -1,0 +1,29 @@
+/* section h1{
+    background-color: red;
+    
+} */
+
+/* section > h1{
+    background-color: aqua; 
+
+    
+} */
+
+/* section + p{
+    background-color: aqua;
+} */
+
+section ~ p{
+    background-color: rgb(21, 193, 199);
+}
+
+section >h1{
+    background-color:aqua;
+}
+
+section >div>h1{
+    background-color: rgb(123, 235, 19);
+}
+section>article>div>h1{
+    background-color: cornflowerblue;
+}

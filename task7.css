@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+
+
+}
+main{
+    height: 800px;
+    width: 100%;
+}
+section{
+    height: 300px;
+    width: 100%;
+    background-color: aqua;
+}
+article{
+    height: 100px;
+    width: 100%;
+    background: green;
+
+}

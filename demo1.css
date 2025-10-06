@@ -1,0 +1,20 @@
+#chessboard {
+  display: grid;
+  grid-template-columns: repeat(8, 100px);
+  grid-template-rows: repeat(8, 100px);
+  width: 800px;
+  height: 800px;
+}
+
+#chessboard div {
+  width: 100px;
+  height: 100px;
+}
+
+#chessboard div:nth-child(even) {
+  background-color: black;
+}
+
+#chessboard div:nth-child(odd) {
+  background-color: white;
+}

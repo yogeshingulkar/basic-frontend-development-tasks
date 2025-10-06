@@ -1,0 +1,22 @@
+#container{
+    height:400px;
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color:black;
+}
+#box3{
+    height: 300px;
+    width: 300px;
+    background-color:blue;
+}

@@ -1,0 +1,39 @@
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    transition: 0.3s;
+}
+#box:hover{
+    height: 300px;
+    width: 300px;
+    
+    border-radius: 50%;
+    background-color: red;
+}
+div{
+    height: 800px;
+    width: 800px;
+    background-color: aquamarine;
+
+}
+/* article:first-child{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(233, 250, 0);
+} */
+
+article:nth-child(even){
+    height: 100px;
+    width: 100%;
+    border: 2px solid black;
+    background-color: rgb(26, 252, 30);
+
+}
+article:nth-child(odd){
+    height: 100px;
+    width: 100%;
+    border: 2px solid black;
+    background-color: rgb(233, 237, 8);
+
+}

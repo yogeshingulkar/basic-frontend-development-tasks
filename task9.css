@@ -1,0 +1,30 @@
+#main{
+    height: 800px;
+    width: 100%;
+    /* border: 2px solid greenyellow; */
+}
+#coca
+{
+    height: 300px;
+    width: auto;
+    position: absolute;
+    left: 350px;
+    top: 150px;
+}
+#fry{
+     height: 300px;
+    width: auto;
+    position: absolute;
+    right: 410px;
+    top: 160px;
+}
+#bug{
+    height: 300px;
+    width: auto;
+    position: absolute;
+    background-color: white;
+    left: 450px;
+    top: 200px;
+
+
+}
