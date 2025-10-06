@@ -49,7 +49,7 @@ Each project is contained within its own directory, named descriptively based on
 To view any project:
 
 1. Clone the repository:
-   `git clone https://github.com/sudarshanpawar07/Web-Practice.git`
+   `https://github.com/yogeshingulkar/basic-frontend-development-tasks.git`
 2. Navigate to the desired project folder.
 3. Open `index.html` in your browser.
 
@@ -57,7 +57,7 @@ To view any project:
 
 ## 💬 Let's Connect
 
-I'm always open to feedback and collaboration. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sudarshanpawar07/) or [Twitter](https://twitter.com/sudarshanpawar07).
+I'm always open to feedback and collaboration. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yogesh-ingulkar/) or [Twitter](https://x.com/__yogiii_).
 
 ---
 
